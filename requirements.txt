@@ -1,7 +1,7 @@
 backports-abc==0.5
 backports.weakref==1.0rc1
 bleach==1.5.0
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 cymem==1.31.2
 cytoolz==0.8.2
